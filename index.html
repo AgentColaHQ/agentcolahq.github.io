@@ -378,7 +378,8 @@ var AGENTS=[
  {label:"SCOTLAND",lat:56.5,lon:-4.2},
  {label:"CHICAGO",lat:41.88,lon:-87.63,side:"left"},
  {label:"LANSING",lat:42.73,lon:-84.55,dy:30},
- {label:"MONTREAL",lat:45.5,lon:-73.57}
+ {label:"MONTREAL",lat:45.5,lon:-73.57},
+ {label:"REDDING",lat:40.59,lon:-122.39}
 ];
 /* ======================================================================== */
 var flights=AGENTS.map(function(g,i){return{a:[HQ.lat,HQ.lon],b:[g.lat,g.lon],t:(i*.31)%1,s:.0004+.0002*(i%3)}});
