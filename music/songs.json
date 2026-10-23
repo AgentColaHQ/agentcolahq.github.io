@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Wiretap",
+    "type": "HQ INTRO",
+    "about": "The new HQ intro. Plays at the start of every broadcast.",
+    "file": "wiretap.mp3",
+    "cover": "wiretap.jpg"
+  },
+  {
+    "title": "Belle's Takeover",
+    "type": "THEME SONG",
+    "about": "Belle's theme song. She runs the show.",
+    "file": "belles-takeover.mp3",
+    "cover": "belles-takeover.jpg"
+  },
+  {
+    "title": "Raid on HQ",
+    "type": "RAID ANTHEM",
+    "about": "Plays when a raid lands at HQ.",
+    "status": "IN THE LAB"
+  },
+  {
+    "title": "Sealed In",
+    "type": "ANTHEM",
+    "about": "",
+    "status": "IN THE LAB"
+  },
+  {
+    "title": "Vetted",
+    "type": "BELLE",
+    "about": "Belle's next song.",
+    "status": "COMING SOON"
+  }
+]
