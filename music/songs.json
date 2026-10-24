@@ -2,9 +2,30 @@
   {
     "title": "Wiretap",
     "type": "HQ INTRO",
-    "about": "The new HQ intro. Plays at the start of every broadcast.",
+    "about": "The newest HQ intro. Part of the broadcast rotation.",
     "file": "wiretap.mp3",
     "cover": "wiretap.jpg"
+  },
+  {
+    "title": "Glass Alibi",
+    "type": "HQ INTRO",
+    "about": "One of the HQ intros in the broadcast rotation.",
+    "file": "glass-alibi.mp3",
+    "cover": "glass-alibi.jpg"
+  },
+  {
+    "title": "Dead Drop",
+    "type": "HQ INTRO",
+    "about": "One of the HQ intros in the broadcast rotation.",
+    "file": "dead-drop.mp3",
+    "cover": "dead-drop.jpg"
+  },
+  {
+    "title": "Chrome Cipher",
+    "type": "HQ INTRO",
+    "about": "One of the HQ intros in the broadcast rotation.",
+    "file": "chrome-cipher.mp3",
+    "cover": "chrome-cipher.jpg"
   },
   {
     "title": "Belle's Takeover",
