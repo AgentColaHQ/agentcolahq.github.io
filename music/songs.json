@@ -38,7 +38,8 @@
     "title": "Raid on HQ",
     "type": "RAID ANTHEM",
     "about": "Plays when a raid lands at HQ.",
-    "status": "IN THE LAB"
+    "file": "raid-on-hq.mp3",
+    "cover": "raid-on-hq.jpg"
   },
   {
     "title": "Sealed In",
