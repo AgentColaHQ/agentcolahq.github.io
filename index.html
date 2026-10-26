@@ -432,7 +432,7 @@ function radioHTML(){if(!RLOADED)return '<div class="feed-h"><span class="k">SOU
 '<div class="radio glass"><img class="rcover" id="rcover" alt=""><div class="rmain"><span class="k" id="rtag"></span><h2 id="rtitle"></h2><p class="sub" id="rnote"></p>'+
 '<div class="rbar" id="rbar"><i id="rfill"></i></div><div class="rtime"><span id="rcur">0:00</span><span id="rlen">0:00</span></div>'+
 '<div class="rbtns"><button type="button" id="rprev" aria-label="Previous track">&#9198;</button><button type="button" class="rplay" id="rplay" aria-label="Play">&#9654;</button><button type="button" id="rnext" aria-label="Next track">&#9197;</button></div></div></div>'+
-(RALB.length>1?'<div class="feed-h"><span class="k">THE SHELF</span></div><div class="rshelf" role="tablist" aria-label="Albums">'+RALB.map(function(a){return '<button type="button" role="tab" class="ralb" data-alb="'+a.id+'" aria-selected="'+(a.id===RSHELF)+'">'+(a.cover?'<img src="'+a.cover+'" alt="">':'<span class="rph">&#9835;</span>')+'<b>'+a.t+'</b><span class="sub">'+(a.sub?a.sub+' &middot; ':'')+a.count+' TRACKS</span></button>'}).join('')+'</div>':'')+
+(RALB.length>1?'<div class="feed-h"><span class="k">THE SHELF</span></div><div class="rshelf" role="tablist" aria-label="Albums">'+RALB.map(function(a){return '<button type="button" role="tab" class="ralb" data-alb="'+a.id+'" aria-selected="'+(a.id===RSHELF)+'">'+(a.cover?'<img src="'+a.cover+'" alt="">':'<span class="rph">&#9835;</span>')+'<b>'+a.t+'</b><span class="sub">'+(a.sub?a.sub+' &middot; ':'')+a.count+' TRACK'+(a.count===1?'':'S')+'</span></button>'}).join('')+'</div>':'')+
 '<div id="rlistwrap">'+rListHTML()+'</div>'}
 var RA=null;
 function rfmt(s){s=Math.floor(s||0);return Math.floor(s/60)+':'+('0'+s%60).slice(-2)}
