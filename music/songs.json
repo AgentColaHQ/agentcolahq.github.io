@@ -8,11 +8,18 @@
       "cover": "mission-files.jpg"
     },
     {
+      "id": "on-air",
+      "title": "On Air",
+      "sub": "Stream intros",
+      "about": "The four stream intros. A different one opens every broadcast.",
+      "cover": "on-air.jpg"
+    },
+    {
       "id": "singles",
-      "title": "Singles & Intros",
+      "title": "Singles",
       "sub": "HQ originals",
-      "about": "Stream intros, theme songs, and anthems from HQ.",
-      "cover": "wiretap.jpg"
+      "about": "Theme songs and anthems from HQ.",
+      "cover": "belles-takeover.jpg"
     }
   ],
   "songs": [
@@ -93,28 +100,36 @@
       "type": "HQ INTRO",
       "about": "The newest HQ intro. Part of the broadcast rotation.",
       "file": "wiretap.mp3",
-      "cover": "wiretap.jpg"
+      "cover": "wiretap.jpg",
+      "album": "on-air",
+      "track": 1
     },
     {
       "title": "Glass Alibi",
       "type": "HQ INTRO",
       "about": "One of the HQ intros in the broadcast rotation.",
       "file": "glass-alibi.mp3",
-      "cover": "glass-alibi.jpg"
+      "cover": "glass-alibi.jpg",
+      "album": "on-air",
+      "track": 2
     },
     {
       "title": "Dead Drop",
       "type": "HQ INTRO",
       "about": "One of the HQ intros in the broadcast rotation.",
       "file": "dead-drop.mp3",
-      "cover": "dead-drop.jpg"
+      "cover": "dead-drop.jpg",
+      "album": "on-air",
+      "track": 3
     },
     {
       "title": "Chrome Cipher",
       "type": "HQ INTRO",
       "about": "One of the HQ intros in the broadcast rotation.",
       "file": "chrome-cipher.mp3",
-      "cover": "chrome-cipher.jpg"
+      "cover": "chrome-cipher.jpg",
+      "album": "on-air",
+      "track": 4
     },
     {
       "title": "Belle's Takeover",
