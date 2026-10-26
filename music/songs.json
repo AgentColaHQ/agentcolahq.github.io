@@ -1,57 +1,145 @@
-[
-  {
-    "title": "Wiretap",
-    "type": "HQ INTRO",
-    "about": "The newest HQ intro. Part of the broadcast rotation.",
-    "file": "wiretap.mp3",
-    "cover": "wiretap.jpg"
-  },
-  {
-    "title": "Glass Alibi",
-    "type": "HQ INTRO",
-    "about": "One of the HQ intros in the broadcast rotation.",
-    "file": "glass-alibi.mp3",
-    "cover": "glass-alibi.jpg"
-  },
-  {
-    "title": "Dead Drop",
-    "type": "HQ INTRO",
-    "about": "One of the HQ intros in the broadcast rotation.",
-    "file": "dead-drop.mp3",
-    "cover": "dead-drop.jpg"
-  },
-  {
-    "title": "Chrome Cipher",
-    "type": "HQ INTRO",
-    "about": "One of the HQ intros in the broadcast rotation.",
-    "file": "chrome-cipher.mp3",
-    "cover": "chrome-cipher.jpg"
-  },
-  {
-    "title": "Belle's Takeover",
-    "type": "THEME SONG",
-    "about": "Belle's theme song. She runs the show.",
-    "file": "belles-takeover.mp3",
-    "cover": "belles-takeover.jpg"
-  },
-  {
-    "title": "Raid on HQ",
-    "type": "RAID ANTHEM",
-    "about": "Plays when a raid lands at HQ.",
-    "file": "raid-on-hq.mp3",
-    "cover": "raid-on-hq.jpg"
-  },
-  {
-    "title": "Sealed In",
-    "type": "ANTHEM",
-    "about": "Welcome to the fold. Once you're in, you're in.",
-    "file": "sealed-in.mp3",
-    "cover": "sealed-in.jpg"
-  },
-  {
-    "title": "Vetted",
-    "type": "BELLE",
-    "about": "Belle's next song.",
-    "status": "COMING SOON"
-  }
-]
+{
+  "albums": [
+    {
+      "id": "mission-files",
+      "title": "Mission Files",
+      "sub": "Volume 1",
+      "about": "Eight original instrumental spy tracks, made at HQ.",
+      "cover": "mission-files.jpg"
+    },
+    {
+      "id": "singles",
+      "title": "Singles & Intros",
+      "sub": "HQ originals",
+      "about": "Stream intros, theme songs, and anthems from HQ.",
+      "cover": "wiretap.jpg"
+    }
+  ],
+  "songs": [
+    {
+      "title": "Operation Countdown",
+      "type": "SOUNDTRACK",
+      "about": "The opening briefing. Staccato strings, brass stabs, and a clock that will not stop.",
+      "file": "operation-countdown.mp3",
+      "cover": "operation-countdown.jpg",
+      "album": "mission-files",
+      "track": 1
+    },
+    {
+      "title": "Operation Fuse",
+      "type": "SOUNDTRACK",
+      "about": "The fuse is lit. Brass and a bass line that will not sit still.",
+      "file": "operation-fuse.mp3",
+      "cover": "operation-fuse.jpg",
+      "album": "mission-files",
+      "track": 2
+    },
+    {
+      "title": "Operation Riptide",
+      "type": "SURF ROCK",
+      "about": "Surf guitar on the night shift. Twang, reverb, and full speed.",
+      "file": "operation-riptide.mp3",
+      "cover": "operation-riptide.jpg",
+      "album": "mission-files",
+      "track": 3
+    },
+    {
+      "title": "Operation Undertow",
+      "type": "SURF ROCK",
+      "about": "The surf rock file, pulled deeper. Tremolo guitar and big brass.",
+      "file": "operation-undertow.mp3",
+      "cover": "operation-undertow.jpg",
+      "album": "mission-files",
+      "track": 4
+    },
+    {
+      "title": "Operation Night Watch",
+      "type": "LO-FI",
+      "about": "A lo-fi stakeout. Muted trumpet, soft rain, and a long night.",
+      "file": "operation-night-watch.mp3",
+      "cover": "operation-night-watch.jpg",
+      "album": "mission-files",
+      "track": 5
+    },
+    {
+      "title": "Operation Cold Coffee",
+      "type": "LO-FI",
+      "about": "Still on the stakeout. Quiet piano and a coffee gone cold.",
+      "file": "operation-cold-coffee.mp3",
+      "cover": "operation-cold-coffee.jpg",
+      "album": "mission-files",
+      "track": 6
+    },
+    {
+      "title": "Operation Slapback",
+      "type": "ELECTRONIC",
+      "about": "Slap bass and electronic drums. The chase is on.",
+      "file": "operation-slapback.mp3",
+      "cover": "operation-slapback.jpg",
+      "album": "mission-files",
+      "track": 7
+    },
+    {
+      "title": "Operation Drop Zone",
+      "type": "ELECTRONIC",
+      "about": "Risers, then the drop. Full brass and bass to close the file.",
+      "file": "operation-drop-zone.mp3",
+      "cover": "operation-drop-zone.jpg",
+      "album": "mission-files",
+      "track": 8
+    },
+    {
+      "title": "Wiretap",
+      "type": "HQ INTRO",
+      "about": "The newest HQ intro. Part of the broadcast rotation.",
+      "file": "wiretap.mp3",
+      "cover": "wiretap.jpg"
+    },
+    {
+      "title": "Glass Alibi",
+      "type": "HQ INTRO",
+      "about": "One of the HQ intros in the broadcast rotation.",
+      "file": "glass-alibi.mp3",
+      "cover": "glass-alibi.jpg"
+    },
+    {
+      "title": "Dead Drop",
+      "type": "HQ INTRO",
+      "about": "One of the HQ intros in the broadcast rotation.",
+      "file": "dead-drop.mp3",
+      "cover": "dead-drop.jpg"
+    },
+    {
+      "title": "Chrome Cipher",
+      "type": "HQ INTRO",
+      "about": "One of the HQ intros in the broadcast rotation.",
+      "file": "chrome-cipher.mp3",
+      "cover": "chrome-cipher.jpg"
+    },
+    {
+      "title": "Belle's Takeover",
+      "type": "THEME SONG",
+      "about": "Belle's theme song. She runs the show.",
+      "file": "belles-takeover.mp3",
+      "cover": "belles-takeover.jpg"
+    },
+    {
+      "title": "Raid on HQ",
+      "type": "RAID ANTHEM",
+      "about": "Plays when a raid lands at HQ.",
+      "status": "IN THE LAB"
+    },
+    {
+      "title": "Sealed In",
+      "type": "ANTHEM",
+      "about": "",
+      "status": "IN THE LAB"
+    },
+    {
+      "title": "Vetted",
+      "type": "BELLE",
+      "about": "Belle's next song.",
+      "status": "COMING SOON"
+    }
+  ]
+}
