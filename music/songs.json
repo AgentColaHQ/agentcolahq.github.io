@@ -142,19 +142,15 @@
       "title": "Raid on HQ",
       "type": "RAID ANTHEM",
       "about": "Plays when a raid lands at HQ.",
-      "status": "IN THE LAB"
+      "file": "raid-on-hq.mp3",
+      "cover": "raid-on-hq.jpg"
     },
     {
       "title": "Sealed In",
       "type": "ANTHEM",
-      "about": "",
-      "status": "IN THE LAB"
-    },
-    {
-      "title": "Vetted",
-      "type": "BELLE",
-      "about": "Belle's next song.",
-      "status": "COMING SOON"
+      "about": "Welcome to the fold. Once you're in, you're in.",
+      "file": "sealed-in.mp3",
+      "cover": "sealed-in.jpg"
     }
   ]
 }
