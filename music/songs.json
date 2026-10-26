@@ -44,8 +44,9 @@
   {
     "title": "Sealed In",
     "type": "ANTHEM",
-    "about": "",
-    "status": "IN THE LAB"
+    "about": "Welcome to the fold. Once you're in, you're in.",
+    "file": "sealed-in.mp3",
+    "cover": "sealed-in.jpg"
   },
   {
     "title": "Vetted",
