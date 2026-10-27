@@ -15,6 +15,13 @@
       "cover": "on-air.jpg"
     },
     {
+      "id": "black-tie-affairs",
+      "title": "Black Tie Affairs",
+      "sub": "Volume 3",
+      "about": "Eight original instrumental spy tracks, dressed for the evening.",
+      "cover": "black-tie-affairs.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -130,6 +137,78 @@
       "cover": "chrome-cipher.jpg",
       "album": "on-air",
       "track": 4
+    },
+    {
+      "title": "Black Tie",
+      "type": "CINEMATIC",
+      "about": "The title track. Twangy guitar, big brass, and a bow tie pulled tight.",
+      "file": "black-tie.mp3",
+      "cover": "black-tie.jpg",
+      "album": "black-tie-affairs",
+      "track": 1
+    },
+    {
+      "title": "Silver Fox",
+      "type": "CINEMATIC",
+      "about": "Cool, calm, and one step ahead. Low guitar and soaring horns.",
+      "file": "silver-fox.mp3",
+      "cover": "silver-fox.jpg",
+      "album": "black-tie-affairs",
+      "track": 2
+    },
+    {
+      "title": "High Roller",
+      "type": "JAZZ",
+      "about": "Big band swing at the casino table. Muted trumpets and a sly guitar.",
+      "file": "high-roller.mp3",
+      "cover": "high-roller.jpg",
+      "album": "black-tie-affairs",
+      "track": 3
+    },
+    {
+      "title": "Last Call",
+      "type": "JAZZ",
+      "about": "The lounge is closing. Warm saxophone and one last brass hit.",
+      "file": "last-call.mp3",
+      "cover": "last-call.jpg",
+      "album": "black-tie-affairs",
+      "track": 4
+    },
+    {
+      "title": "Fast Exit",
+      "type": "ELECTRONIC",
+      "about": "Neon lights and a getaway. Synth bass and a racing beat.",
+      "file": "fast-exit.mp3",
+      "cover": "fast-exit.jpg",
+      "album": "black-tie-affairs",
+      "track": 5
+    },
+    {
+      "title": "Red Light Run",
+      "type": "ELECTRONIC",
+      "about": "No stopping now. Driving synths and a twangy lead.",
+      "file": "red-light-run.mp3",
+      "cover": "red-light-run.jpg",
+      "album": "black-tie-affairs",
+      "track": 6
+    },
+    {
+      "title": "Zero Hour",
+      "type": "CINEMATIC",
+      "about": "The clock runs out. Ticking strings, then huge drums and booming brass.",
+      "file": "zero-hour.mp3",
+      "cover": "zero-hour.jpg",
+      "album": "black-tie-affairs",
+      "track": 7
+    },
+    {
+      "title": "Shockwave",
+      "type": "CINEMATIC",
+      "about": "The final blast. Orchestral hits and brass to close the night.",
+      "file": "shockwave.mp3",
+      "cover": "shockwave.jpg",
+      "album": "black-tie-affairs",
+      "track": 8
     },
     {
       "title": "Belle's Takeover",
