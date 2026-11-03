@@ -506,7 +506,7 @@ function route(){
   if(ch)ch.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;var f=b.dataset.f;ch.querySelectorAll("button").forEach(function(x){x.setAttribute("aria-pressed",x===b?"true":"false")});document.querySelectorAll("#cards .card").forEach(function(c){c.hidden=!(f==="all"||c.dataset.k===f)})})}
  document.querySelectorAll("#mainnav a").forEach(function(a){a.classList.toggle("on",a.getAttribute("href")==="#"+h)});
  window.scrollTo(0,0)}
-(function(){var L=document.getElementById("latest");if(L){var pick=["Field Receipts","Spooky Print Week","Black Cat"];L.innerHTML=pick.map(function(n){var c=CASES.filter(function(x){return x.t===n})[0];if(!c)return"";return '<a class="tile glass t-case" href="#cases"><img class="aph'+(c.fit?' fit':'')+'" src="'+c.img+'" alt="'+c.t+'"><span class="k pill p'+c.K.replace(/\W/g,'')+'">'+c.K+'</span><h3>'+c.t+'</h3></a>'}).join('')}})();
+(function(){var L=document.getElementById("latest");if(L){var pick=CASES.slice(0,3).map(function(x){return x.t});L.innerHTML=pick.map(function(n){var c=CASES.filter(function(x){return x.t===n})[0];if(!c)return"";return '<a class="tile glass t-case" href="#cases"><img class="aph'+(c.fit?' fit':'')+'" src="'+c.img+'" alt="'+c.t+'"><span class="k pill p'+c.K.replace(/\W/g,'')+'">'+c.K+'</span><h3>'+c.t+'</h3></a>'}).join('')}})();
 
 var PARENTS="parent=agentcolahq.com&parent=www.agentcolahq.com&parent=agentcolahq.github.io";
 function setTitle(t){var el=document.getElementById("mtitle");if(el&&t)el.textContent=t}
