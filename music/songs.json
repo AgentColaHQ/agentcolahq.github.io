@@ -10,7 +10,7 @@
     {
       "id": "on-air",
       "title": "On Air",
-      "sub": "Stream intros",
+      "sub": "Volume 2",
       "about": "The four stream intros. A different one opens every broadcast.",
       "cover": "on-air.jpg"
     },
@@ -20,6 +20,13 @@
       "sub": "Volume 3",
       "about": "Eight original instrumental spy tracks, dressed for the evening.",
       "cover": "black-tie-affairs.jpg"
+    },
+    {
+      "id": "midnight-prowl",
+      "title": "Midnight Prowl",
+      "sub": "Volume 4",
+      "about": "Eight original instrumental spy tracks, made for sneaking around after dark.",
+      "cover": "midnight-prowl.jpg"
     },
     {
       "id": "singles",
@@ -35,7 +42,7 @@
       "type": "SOUNDTRACK",
       "about": "The opening briefing. Staccato strings, brass stabs, and a clock that will not stop.",
       "file": "operation-countdown.mp3",
-      "cover": "operation-countdown.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 1
     },
@@ -44,7 +51,7 @@
       "type": "SOUNDTRACK",
       "about": "The fuse is lit. Brass and a bass line that will not sit still.",
       "file": "operation-fuse.mp3",
-      "cover": "operation-fuse.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 2
     },
@@ -53,7 +60,7 @@
       "type": "SURF ROCK",
       "about": "Surf guitar on the night shift. Twang, reverb, and full speed.",
       "file": "operation-riptide.mp3",
-      "cover": "operation-riptide.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 3
     },
@@ -62,7 +69,7 @@
       "type": "SURF ROCK",
       "about": "The surf rock file, pulled deeper. Tremolo guitar and big brass.",
       "file": "operation-undertow.mp3",
-      "cover": "operation-undertow.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 4
     },
@@ -71,7 +78,7 @@
       "type": "LO-FI",
       "about": "A lo-fi stakeout. Muted trumpet, soft rain, and a long night.",
       "file": "operation-night-watch.mp3",
-      "cover": "operation-night-watch.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 5
     },
@@ -80,7 +87,7 @@
       "type": "LO-FI",
       "about": "Still on the stakeout. Quiet piano and a coffee gone cold.",
       "file": "operation-cold-coffee.mp3",
-      "cover": "operation-cold-coffee.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 6
     },
@@ -89,7 +96,7 @@
       "type": "ELECTRONIC",
       "about": "Slap bass and electronic drums. The chase is on.",
       "file": "operation-slapback.mp3",
-      "cover": "operation-slapback.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 7
     },
@@ -98,7 +105,7 @@
       "type": "ELECTRONIC",
       "about": "Risers, then the drop. Full brass and bass to close the file.",
       "file": "operation-drop-zone.mp3",
-      "cover": "operation-drop-zone.jpg",
+      "cover": "mission-files.jpg",
       "album": "mission-files",
       "track": 8
     },
@@ -107,7 +114,7 @@
       "type": "HQ INTRO",
       "about": "The newest HQ intro. Part of the broadcast rotation.",
       "file": "wiretap.mp3",
-      "cover": "wiretap.jpg",
+      "cover": "on-air.jpg",
       "album": "on-air",
       "track": 1
     },
@@ -116,7 +123,7 @@
       "type": "HQ INTRO",
       "about": "One of the HQ intros in the broadcast rotation.",
       "file": "glass-alibi.mp3",
-      "cover": "glass-alibi.jpg",
+      "cover": "on-air.jpg",
       "album": "on-air",
       "track": 2
     },
@@ -125,7 +132,7 @@
       "type": "HQ INTRO",
       "about": "One of the HQ intros in the broadcast rotation.",
       "file": "dead-drop.mp3",
-      "cover": "dead-drop.jpg",
+      "cover": "on-air.jpg",
       "album": "on-air",
       "track": 3
     },
@@ -134,7 +141,7 @@
       "type": "HQ INTRO",
       "about": "One of the HQ intros in the broadcast rotation.",
       "file": "chrome-cipher.mp3",
-      "cover": "chrome-cipher.jpg",
+      "cover": "on-air.jpg",
       "album": "on-air",
       "track": 4
     },
@@ -143,7 +150,7 @@
       "type": "CINEMATIC",
       "about": "The title track. Twangy guitar, big brass, and a bow tie pulled tight.",
       "file": "black-tie.mp3",
-      "cover": "black-tie.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 1
     },
@@ -152,7 +159,7 @@
       "type": "CINEMATIC",
       "about": "Cool, calm, and one step ahead. Low guitar and soaring horns.",
       "file": "silver-fox.mp3",
-      "cover": "silver-fox.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 2
     },
@@ -161,7 +168,7 @@
       "type": "JAZZ",
       "about": "Big band swing at the casino table. Muted trumpets and a sly guitar.",
       "file": "high-roller.mp3",
-      "cover": "high-roller.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 3
     },
@@ -170,7 +177,7 @@
       "type": "JAZZ",
       "about": "The lounge is closing. Warm saxophone and one last brass hit.",
       "file": "last-call.mp3",
-      "cover": "last-call.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 4
     },
@@ -179,7 +186,7 @@
       "type": "ELECTRONIC",
       "about": "Neon lights and a getaway. Synth bass and a racing beat.",
       "file": "fast-exit.mp3",
-      "cover": "fast-exit.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 5
     },
@@ -188,7 +195,7 @@
       "type": "ELECTRONIC",
       "about": "No stopping now. Driving synths and a twangy lead.",
       "file": "red-light-run.mp3",
-      "cover": "red-light-run.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 6
     },
@@ -197,7 +204,7 @@
       "type": "CINEMATIC",
       "about": "The clock runs out. Ticking strings, then huge drums and booming brass.",
       "file": "zero-hour.mp3",
-      "cover": "zero-hour.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
       "track": 7
     },
@@ -206,8 +213,80 @@
       "type": "CINEMATIC",
       "about": "The final blast. Orchestral hits and brass to close the night.",
       "file": "shockwave.mp3",
-      "cover": "shockwave.jpg",
+      "cover": "black-tie-affairs.jpg",
       "album": "black-tie-affairs",
+      "track": 8
+    },
+    {
+      "title": "Tiptoe",
+      "type": "JAZZ",
+      "about": "The opening creep. Breathy saxophone and a walking bass, one careful step at a time.",
+      "file": "tiptoe.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 1
+    },
+    {
+      "title": "Velvet Rope",
+      "type": "JAZZ",
+      "about": "Past the rope and into the gallery. Soft brushes and a slinky sax.",
+      "file": "velvet-rope.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 2
+    },
+    {
+      "title": "Near Miss",
+      "type": "CINEMATIC",
+      "about": "Plucked strings tiptoe, then a brass sting. That was close.",
+      "file": "near-miss.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 3
+    },
+    {
+      "title": "Butterfingers",
+      "type": "CINEMATIC",
+      "about": "Clarinet, bassoon, and one clumsy step too many.",
+      "file": "butterfingers.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 4
+    },
+    {
+      "title": "Moonlit Terrace",
+      "type": "BOSSA NOVA",
+      "about": "A rooftop party after dark. Nylon guitar, breathy flute, and a sly sax.",
+      "file": "moonlit-terrace.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 5
+    },
+    {
+      "title": "Slow Dance",
+      "type": "BOSSA NOVA",
+      "about": "Cool and unhurried. Vibraphone and a gentle sway.",
+      "file": "slow-dance.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 6
+    },
+    {
+      "title": "Quick Change",
+      "type": "ELECTRO SWING",
+      "about": "Swing brass over a modern beat. A new disguise in every bar.",
+      "file": "quick-change.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
+      "track": 7
+    },
+    {
+      "title": "Back Door",
+      "type": "ELECTRO SWING",
+      "about": "The sax slips out quietly, then the beat drops back in.",
+      "file": "back-door.mp3",
+      "cover": "midnight-prowl.jpg",
+      "album": "midnight-prowl",
       "track": 8
     },
     {
