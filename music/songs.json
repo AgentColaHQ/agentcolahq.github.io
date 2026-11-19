@@ -57,6 +57,13 @@
       "cover": "day-one.jpg"
     },
     {
+      "id": "gumshoe",
+      "title": "Gumshoe",
+      "sub": "Volume 9",
+      "about": "Twelve original instrumental detective tracks, from smoky clubs to late-night diners.",
+      "cover": "gumshoe.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -604,6 +611,114 @@
       "cover": "day-one.jpg",
       "album": "day-one",
       "track": 8
+    },
+    {
+      "title": "Gumshoe",
+      "type": "JAZZ",
+      "about": "The title track. A driving riff, punchy big band brass, and a growling sax.",
+      "file": "gumshoe.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 1
+    },
+    {
+      "title": "Trench Coat",
+      "type": "JAZZ",
+      "about": "Collar up and hat low. Gritty guitar and brass on the case.",
+      "file": "trench-coat.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 2
+    },
+    {
+      "title": "Tail Lights",
+      "type": "SYNTHWAVE",
+      "about": "Following a car through the city at night. Deep synth bass and glowing leads.",
+      "file": "tail-lights.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 3
+    },
+    {
+      "title": "Overdrive",
+      "type": "SYNTHWAVE",
+      "about": "Gated drums and bright synth stabs. The tail turns into a chase.",
+      "file": "overdrive.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 4
+    },
+    {
+      "title": "Rainy Window",
+      "type": "LO-FI",
+      "about": "Upright bass and muted electric piano while the rain comes down.",
+      "file": "rainy-window.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 5
+    },
+    {
+      "title": "Slow Burn",
+      "type": "LO-FI",
+      "about": "A quiet trumpet and soft vinyl crackle. The case is not going anywhere.",
+      "file": "slow-burn.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 6
+    },
+    {
+      "title": "Shoe Leather",
+      "type": "SWING",
+      "about": "A walking bass and full swing band, working the case on foot.",
+      "file": "shoe-leather.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 7
+    },
+    {
+      "title": "Big Shot",
+      "type": "SWING",
+      "about": "Big shout chorus hits and a clarinet solo. Somebody important walked in.",
+      "file": "big-shot.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 8
+    },
+    {
+      "title": "Hot Rod",
+      "type": "ROCKABILLY",
+      "about": "Twangy guitar and slapped bass, tearing out of the parking lot.",
+      "file": "hot-rod.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 9
+    },
+    {
+      "title": "Jukebox",
+      "type": "ROCKABILLY",
+      "about": "Honky-tonk piano and a wild guitar solo at the late-night diner.",
+      "file": "jukebox.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 10
+    },
+    {
+      "title": "Heat Wave",
+      "type": "AFRO-CUBAN JAZZ",
+      "about": "Congas, timbales, and bright trumpets in a steamy back-room club.",
+      "file": "heat-wave.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 11
+    },
+    {
+      "title": "Late Set",
+      "type": "AFRO-CUBAN JAZZ",
+      "about": "Baritone sax and a fiery piano solo before the club closes.",
+      "file": "late-set.mp3",
+      "cover": "gumshoe.jpg",
+      "album": "gumshoe",
+      "track": 12
     },
     {
       "title": "Belle's Takeover",
