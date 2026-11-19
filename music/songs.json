@@ -36,6 +36,13 @@
       "cover": "island-patrol.jpg"
     },
     {
+      "id": "cold-case",
+      "title": "Cold Case",
+      "sub": "Volume 6",
+      "about": "Eight original instrumental crime tracks, for the files nobody closed.",
+      "cover": "cold-case.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -366,6 +373,78 @@
       "file": "full-formation.mp3",
       "cover": "island-patrol.jpg",
       "album": "island-patrol",
+      "track": 8
+    },
+    {
+      "title": "Cold Case",
+      "type": "CINEMATIC",
+      "about": "The title track. Electric piano, a steady bass line, and a mournful clarinet.",
+      "file": "cold-case.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 1
+    },
+    {
+      "title": "Late Shift",
+      "type": "CINEMATIC",
+      "about": "Still at the desk after midnight. Low piano and quiet tension.",
+      "file": "late-shift.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 2
+    },
+    {
+      "title": "Closing Argument",
+      "type": "CLASSICAL",
+      "about": "A string quartet makes its case. Plucked cello and trading violins.",
+      "file": "closing-argument.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 3
+    },
+    {
+      "title": "Hung Jury",
+      "type": "CLASSICAL",
+      "about": "No verdict yet. Tense strings that build, then settle on one held note.",
+      "file": "hung-jury.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 4
+    },
+    {
+      "title": "Two-Way Mirror",
+      "type": "BLUES",
+      "about": "Wailing harmonica in the interrogation room. Someone is watching.",
+      "file": "two-way-mirror.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 5
+    },
+    {
+      "title": "No Comment",
+      "type": "BLUES",
+      "about": "A slow shuffle and bent guitar notes. The suspect is not talking.",
+      "file": "no-comment.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 6
+    },
+    {
+      "title": "Paper Trail",
+      "type": "ELECTRONIC",
+      "about": "Clicky beats and data blips. The evidence starts to line up.",
+      "file": "paper-trail.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
+      "track": 7
+    },
+    {
+      "title": "Fingerprint",
+      "type": "ELECTRONIC",
+      "about": "Scanning sweeps and a cool electric piano. A match comes back.",
+      "file": "fingerprint.mp3",
+      "cover": "cold-case.jpg",
+      "album": "cold-case",
       "track": 8
     },
     {
