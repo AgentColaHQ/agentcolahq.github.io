@@ -29,6 +29,13 @@
       "cover": "midnight-prowl.jpg"
     },
     {
+      "id": "island-patrol",
+      "title": "Island Patrol",
+      "sub": "Volume 5",
+      "about": "Eight original instrumental cop tracks, built for a chase along the coast.",
+      "cover": "island-patrol.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -287,6 +294,78 @@
       "file": "back-door.mp3",
       "cover": "midnight-prowl.jpg",
       "album": "midnight-prowl",
+      "track": 8
+    },
+    {
+      "title": "Island Patrol",
+      "type": "CINEMATIC",
+      "about": "The title track. Pounding drums and a big brass fanfare across open water.",
+      "file": "island-patrol.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 1
+    },
+    {
+      "title": "Harbor Run",
+      "type": "CINEMATIC",
+      "about": "Racing the boats to the dock. Fast strings and punchy brass.",
+      "file": "harbor-run.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 2
+    },
+    {
+      "title": "Tiki Torch",
+      "type": "EXOTICA",
+      "about": "Vibraphone and slide guitar in a tiki lounge after dark.",
+      "file": "tiki-torch.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 3
+    },
+    {
+      "title": "Palm Shade",
+      "type": "EXOTICA",
+      "about": "Bongos, ukulele, and distant birds. A slow island stakeout.",
+      "file": "palm-shade.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 4
+    },
+    {
+      "title": "Breakwater",
+      "type": "DRUM AND BASS",
+      "about": "Rapid breakbeats and soaring horns, from the rooftops to the harbor.",
+      "file": "breakwater.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 5
+    },
+    {
+      "title": "Pier Pressure",
+      "type": "DRUM AND BASS",
+      "about": "Deep bass, brass stabs, and nowhere left to run.",
+      "file": "pier-pressure.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 6
+    },
+    {
+      "title": "Drum Major",
+      "type": "DRUMLINE",
+      "about": "Snares and quad toms lead the squad into the stadium.",
+      "file": "drum-major.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
+      "track": 7
+    },
+    {
+      "title": "Full Formation",
+      "type": "DRUMLINE",
+      "about": "The whole band hits at once. A big drum roll and one last blast.",
+      "file": "full-formation.mp3",
+      "cover": "island-patrol.jpg",
+      "album": "island-patrol",
       "track": 8
     },
     {
