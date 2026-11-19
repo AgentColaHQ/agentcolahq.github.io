@@ -64,6 +64,13 @@
       "cover": "gumshoe.jpg"
     },
     {
+      "id": "street-smart",
+      "title": "Street Smart",
+      "sub": "Volume 10",
+      "about": "Eight original instrumental cop tracks, cool and quick on their feet.",
+      "cover": "street-smart.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -719,6 +726,78 @@
       "cover": "gumshoe.jpg",
       "album": "gumshoe",
       "track": 12
+    },
+    {
+      "title": "Street Smart",
+      "type": "SYNTH",
+      "about": "The title track. A bouncy synth lead that answers itself over a crisp drum machine.",
+      "file": "street-smart.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 1
+    },
+    {
+      "title": "Fast Talker",
+      "type": "SYNTH",
+      "about": "Punchy synth bass and quick chord stabs. Always one line ahead.",
+      "file": "fast-talker.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 2
+    },
+    {
+      "title": "Easy Money",
+      "type": "MARIMBA",
+      "about": "Bright marimba and kalimba over a deep, punchy bass.",
+      "file": "easy-money.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 3
+    },
+    {
+      "title": "Wise Guy",
+      "type": "MARIMBA",
+      "about": "Vibraphone sparkle and a sly call and response.",
+      "file": "wise-guy.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 4
+    },
+    {
+      "title": "Side Hustle",
+      "type": "ACOUSTIC FUNK",
+      "about": "A muted acoustic guitar groove with upright bass and cajón.",
+      "file": "side-hustle.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 5
+    },
+    {
+      "title": "Smooth Move",
+      "type": "ACOUSTIC FUNK",
+      "about": "Laid-back strums and a melodica line that slides right in.",
+      "file": "smooth-move.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 6
+    },
+    {
+      "title": "Grand Entrance",
+      "type": "ORCHESTRAL",
+      "about": "Muted trumpets sneak in, then the full orchestra arrives.",
+      "file": "grand-entrance.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 7
+    },
+    {
+      "title": "Front Page",
+      "type": "ORCHESTRAL",
+      "about": "Woodwind runs and timpani for a headline finish.",
+      "file": "front-page.mp3",
+      "cover": "street-smart.jpg",
+      "album": "street-smart",
+      "track": 8
     },
     {
       "title": "Belle's Takeover",
