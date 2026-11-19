@@ -43,6 +43,13 @@
       "cover": "cold-case.jpg"
     },
     {
+      "id": "most-wanted",
+      "title": "Most Wanted",
+      "sub": "Volume 7",
+      "about": "Eight original instrumental cop tracks, with the windows down and the sirens on.",
+      "cover": "most-wanted.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -445,6 +452,78 @@
       "file": "fingerprint.mp3",
       "cover": "cold-case.jpg",
       "album": "cold-case",
+      "track": 8
+    },
+    {
+      "title": "Most Wanted",
+      "type": "REGGAE",
+      "about": "The title track. Offbeat guitar, a bubbling organ, and a deep, rolling bass.",
+      "file": "most-wanted.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 1
+    },
+    {
+      "title": "Night Beat",
+      "type": "REGGAE",
+      "about": "A slow patrol through a warm city at night. Horns and a distant siren.",
+      "file": "night-beat.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 2
+    },
+    {
+      "title": "Hot Pursuit",
+      "type": "LATIN",
+      "about": "Timbales, cowbell, and loud brass. The chase is on.",
+      "file": "hot-pursuit.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 3
+    },
+    {
+      "title": "Ocean Drive",
+      "type": "LATIN",
+      "about": "Salsa piano and a punchy bass line along the neon waterfront.",
+      "file": "ocean-drive.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 4
+    },
+    {
+      "title": "Full Tilt",
+      "type": "ROCK",
+      "about": "Heavy guitars and pounding drums. No brakes.",
+      "file": "full-tilt.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 5
+    },
+    {
+      "title": "Burnout",
+      "type": "ROCK",
+      "about": "A screaming guitar siren and one big final crash.",
+      "file": "burnout.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 6
+    },
+    {
+      "title": "Off the Record",
+      "type": "HIP-HOP",
+      "about": "Dusty drums, a jazz piano loop, and a few record scratches.",
+      "file": "off-the-record.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
+      "track": 7
+    },
+    {
+      "title": "Mug Shot",
+      "type": "HIP-HOP",
+      "about": "A cool head-nod groove with a muted trumpet. Smile for the camera.",
+      "file": "mug-shot.mp3",
+      "cover": "most-wanted.jpg",
+      "album": "most-wanted",
       "track": 8
     },
     {
