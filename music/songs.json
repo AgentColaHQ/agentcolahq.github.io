@@ -50,6 +50,13 @@
       "cover": "most-wanted.jpg"
     },
     {
+      "id": "day-one",
+      "title": "Day One",
+      "sub": "Volume 8",
+      "about": "Eight original instrumental cop tracks, for a new badge on a first shift.",
+      "cover": "day-one.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -524,6 +531,78 @@
       "file": "mug-shot.mp3",
       "cover": "most-wanted.jpg",
       "album": "most-wanted",
+      "track": 8
+    },
+    {
+      "title": "Day One",
+      "type": "CINEMATIC",
+      "about": "The title track. A tense guitar riff and pulsing bass on a dangerous first shift.",
+      "file": "day-one.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 1
+    },
+    {
+      "title": "Call Sign",
+      "type": "CINEMATIC",
+      "about": "Low strings swell under a gritty guitar. The radio crackles to life.",
+      "file": "call-sign.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 2
+    },
+    {
+      "title": "First Light",
+      "type": "POST-ROCK",
+      "about": "Shimmering guitars build into a sunrise after the longest night.",
+      "file": "first-light.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 3
+    },
+    {
+      "title": "Horizon Line",
+      "type": "POST-ROCK",
+      "about": "Quiet echoes that grow into a huge, hopeful peak.",
+      "file": "horizon-line.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 4
+    },
+    {
+      "title": "Foot Pursuit",
+      "type": "CELTIC",
+      "about": "A fast fiddle and a galloping drum. Do not let them get away.",
+      "file": "foot-pursuit.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 5
+    },
+    {
+      "title": "Over the Fence",
+      "type": "CELTIC",
+      "about": "Tin whistle runs and stomping drums, one fence at a time.",
+      "file": "over-the-fence.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 6
+    },
+    {
+      "title": "Rooftop Chase",
+      "type": "FLAMENCO",
+      "about": "Rapid nylon guitar and sharp foot stomps across the rooftops.",
+      "file": "rooftop-chase.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
+      "track": 7
+    },
+    {
+      "title": "Fire Escape",
+      "type": "FLAMENCO",
+      "about": "A tense pause, then the guitar explodes back in.",
+      "file": "fire-escape.mp3",
+      "cover": "day-one.jpg",
+      "album": "day-one",
       "track": 8
     },
     {
