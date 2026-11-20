@@ -71,6 +71,13 @@
       "cover": "street-smart.jpg"
     },
     {
+      "id": "spring-loaded",
+      "title": "Spring Loaded",
+      "sub": "Volume 11",
+      "about": "Twelve original instrumental tracks for a bumbling detective and a coat full of gadgets.",
+      "cover": "spring-loaded.jpg"
+    },
+    {
       "id": "singles",
       "title": "Singles",
       "sub": "HQ originals",
@@ -798,6 +805,114 @@
       "cover": "street-smart.jpg",
       "album": "street-smart",
       "track": 8
+    },
+    {
+      "title": "Spring Loaded",
+      "type": "CINEMATIC",
+      "about": "The title track. A sneaky bass line, then the whole band crashes in.",
+      "file": "spring-loaded.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 1
+    },
+    {
+      "title": "Wrong Turn",
+      "type": "CINEMATIC",
+      "about": "Punchy brass and a bright synth lead. Somebody took the wrong exit.",
+      "file": "wrong-turn.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 2
+    },
+    {
+      "title": "Parade Route",
+      "type": "BRASS BAND",
+      "about": "A bouncy tuba leads the bumbling parade.",
+      "file": "parade-route.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 3
+    },
+    {
+      "title": "Tuba Trouble",
+      "type": "BRASS BAND",
+      "about": "Silly clarinet runs and a march that keeps speeding up.",
+      "file": "tuba-trouble.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 4
+    },
+    {
+      "title": "Tick Tock",
+      "type": "CLOCKWORK",
+      "about": "Glockenspiel gears and ticking woodblocks in the inventor's workshop.",
+      "file": "tick-tock.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 5
+    },
+    {
+      "title": "Wind-Up",
+      "type": "CLOCKWORK",
+      "about": "Clock chimes and a sneaky bassoon, then it winds down like a spring.",
+      "file": "wind-up.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 6
+    },
+    {
+      "title": "Gearbox",
+      "type": "CLOCKWORK FUNK",
+      "about": "A funky backbeat and mechanical whirs. Every gadget switches on.",
+      "file": "gearbox.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 7
+    },
+    {
+      "title": "Final Click",
+      "type": "CLOCKWORK FUNK",
+      "about": "Brass hits and spinning gears, ending on one last click.",
+      "file": "final-click.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 8
+    },
+    {
+      "title": "Pratfall",
+      "type": "SKA",
+      "about": "Offbeat guitar and shouting horns. Everything goes wrong at once.",
+      "file": "pratfall.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 9
+    },
+    {
+      "title": "Banana Peel",
+      "type": "SKA",
+      "about": "A frantic cartoon chase with crashing cymbals.",
+      "file": "banana-peel.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 10
+    },
+    {
+      "title": "Low Blow",
+      "type": "SKA",
+      "about": "A heavy bass leads the chase, with a baritone sax underneath.",
+      "file": "low-blow.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 11
+    },
+    {
+      "title": "Trapdoor",
+      "type": "SKA",
+      "about": "The bass plays alone, then the whole band slams back in.",
+      "file": "trapdoor.mp3",
+      "cover": "spring-loaded.jpg",
+      "album": "spring-loaded",
+      "track": 12
     },
     {
       "title": "Belle's Takeover",
